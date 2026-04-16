@@ -7,6 +7,8 @@ public class AccsiValue {
 
             int ascii = (char) i; 
 
+            System.out.println("Final ans is:-");
+
         System.out.println("ASCII value of " + i + " is: " + ascii);
 
         }
