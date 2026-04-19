@@ -1,6 +1,8 @@
 public class tranglep {
 
     public static void main(String[] args) {
+
+        System.out.println("Enter a Number");
         
         for (int i = 1; i <=5; i++) {
 
